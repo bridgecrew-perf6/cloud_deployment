@@ -49,4 +49,3 @@ jobs:
           --region $CLOUD_RUN_REGION \
           --allow-unauthenticated \
           --quiet
-view rawcloud-run.yml hosted with ❤ by GitHub
