@@ -17,10 +17,5 @@ module.exports = {
       ],
     });
     return config;
-  },
-
-  images: {
-    loader: 'imgix',
-    path: 'static/images/',
-  },
+  }
 }
